@@ -22,4 +22,4 @@ cd themes/transparent
 git pull
 ```
 
-[demo]: http://bingli8882.github.io
+[demo]: http://binglispace.com
